@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JDXAEzbUMdj3rfBMisvqMZ4XG5GxUS/kSh2ByX3VTXyt7eMFgTZ4lR75U4memhhczdWyZ9FSlWg0I10a5TElcw==",
+  "dgSpecHash": "9USp+PMe5Hr1/W7TB3n6vvL7u5yffrDDOc0r777gFxlHnBp/9XtkgcJfdHEeONhSpIEtkRXFywbDMEym6ILdPQ==",
   "success": true,
-  "projectFilePath": "D:\\MyEducation\\finalTestWork\\taskSolution.csproj",
+  "projectFilePath": "D:\\MyEducation\\finalTestWork\\taskSolution\\taskSolution.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

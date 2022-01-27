@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\MyEducation\\finalTestWork\\taskSolution.csproj": {}
+    "D:\\MyEducation\\finalTestWork\\taskSolution\\taskSolution.csproj": {}
   },
   "projects": {
-    "D:\\MyEducation\\finalTestWork\\taskSolution.csproj": {
+    "D:\\MyEducation\\finalTestWork\\taskSolution\\taskSolution.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MyEducation\\finalTestWork\\taskSolution.csproj",
+        "projectUniqueName": "D:\\MyEducation\\finalTestWork\\taskSolution\\taskSolution.csproj",
         "projectName": "taskSolution",
-        "projectPath": "D:\\MyEducation\\finalTestWork\\taskSolution.csproj",
+        "projectPath": "D:\\MyEducation\\finalTestWork\\taskSolution\\taskSolution.csproj",
         "packagesPath": "C:\\Users\\Влад\\.nuget\\packages\\",
-        "outputPath": "D:\\MyEducation\\finalTestWork\\obj\\",
+        "outputPath": "D:\\MyEducation\\finalTestWork\\taskSolution\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Влад\\AppData\\Roaming\\NuGet\\NuGet.Config"
